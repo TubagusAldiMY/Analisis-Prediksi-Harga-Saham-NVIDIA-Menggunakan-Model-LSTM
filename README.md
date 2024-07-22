@@ -1,0 +1,1 @@
+# Analisis-Prediksi-Harga-Saham-NVIDIA-Menggunakan-Model-LSTM
